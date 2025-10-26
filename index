@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -178,7 +177,7 @@
         
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(26, 54, 93, 0.8), rgba(26, 54, 93, 0.9)), url('https://raw.githubusercontent.com/tvvalenarede/bonani2/main/OLIMUSAR.jpg') center/cover no-repeat;
+            background: linear-gradient(rgba(26, 54, 93, 0.8), rgba(26, 54, 93, 0.9)), url('OLIMUSAR.jpg') center/cover no-repeat;
             color: white;
             text-align: center;
             padding: 180px 0 100px;
@@ -523,7 +522,7 @@
             <h2>Sobre o Dr. Olim</h2>
             <div class="sobre-container">
                 <div class="sobre-img">
-                    <img src="https://raw.githubusercontent.com/tvvalenarede/bonani2/main/OLIMUSAR.jpg" alt="Dr. Olim">
+                    <img src="OLIMUSAR.jpg" alt="Dr. Olim">
                 </div>
                 <div class="sobre-content">
                     <h3>Biografia</h3>
@@ -544,66 +543,66 @@
                 <!-- Vídeo 1 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/watch?v=Ib9O_QPSjHI" title="Vídeo 1" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/Ib9O_QPSjHI" title="Vídeo 1" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3> Dr.Olim Entrevista em Cunha S.P - Episódio 1</h3>
-                        <p>No lançamento do livro PREVENÇAO E ACÃO.</p>
+                        <h3>DR.OLIM DEPUTADO E DELEGADO EM CUNHA S.P </h3>
+                        <p>No lançamento do livro "PREVENÇAO EM AÇÃO"e destinou Um Milhão de reais para o Prefeito Rodrigo do Neto para investimento na cidade.</p>
                     </div>
                 </div>
                 
                 <!-- Vídeo 2 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/shorts/TGKAn5h5BXY" title="Vídeo 2" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/TGKAn5h5BXY" title="Vídeo 2" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3>Dr.Olim Entrevista em Taubaté  - Conheça Seus Direitos</h3>
-                        <p>O Delegado Olim esteve em Taubaté dando proteção aos romeiros.</p>
+                        <h3>DR.OLIM DEPUTADO E DELEGADO EM TAUBATÉ.</h3>
+                        <p>Montou uma barraca para proteger os romeiros que estavam sendo assaltados na Via Dutra.</p>
                     </div>
                 </div>
                 
                 <!-- Vídeo 3 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/shorts/VGndFfVQHA4" title="Vídeo 3" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/VGndFfVQHA4" title="Vídeo 3" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3>O Dr.Olim ajudou a cidade de Caçapava com hum milhão de reais</h3>
-                        <p>e fez a entrega para o prefeito Yan Lopes.</p>
+                        <h3>DR.OLIM DEPUTADO E DELEGADO EM CAÇAPAVA.</h3>
+                        <p>Ele destinou Um Milhão de reais para o prefeito Yan Lopes de Almeida para investimento na segurança da cidade.</p>
                     </div>
                 </div>
                 
                 <!-- Vídeo 4 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/watch?v=xDyNIIdU8Tk" title="Vídeo 4" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/zF_balQyJTY" title="Vídeo 4" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3>Dr.Olim na entrega dos livros PREVENSÃO EM AÇÃO.</h3>
-                        <p>O Delegado e Deputado Olim no restaurante Caminho de Ouro em Cunha S.P.</p>
+                        <h3> DR.OLIM DESTINOU UM MILHÃO DE REAIS PARA CAÇAPAVA.</h3>
+                        <p>O prefeito Yan Lopes ficou muito satisfeito e fará investimento na segurança da cidade.</p>
                     </div>
                 </div>
                 
                 <!-- Vídeo 5 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/watch?v=GzGH45ntoOw&t=5s" title="Vídeo 5" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/LTgeMXarbTU" title="Vídeo 5" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3>A Delegada Dra Eliane deu abertura no evento em Taubaté.</h3>
-                        <p>A Dra Eliane e a equipe do Dr Olim dando proteção aos romeiros indo para Aparecida do Norte equi</p>
+                        <h3>DR.OLIM CHEGANDO NA CIDADE DE TAUBATÉ.</h3>
+                        <p>Ele veio de carro pela Via Dutra para acompanhar os romeiros indo para Aparecida do Norte.</p>
                     </div>
                 </div>
                 
                 <!-- Vídeo 6 -->
                 <div class="video-item">
                     <div class="video-thumb">
-                        <iframe src="https://www.youtube.com/watch?v=L57RO1BKti0" title="Vídeo 6" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube.com/embed/10xuInlXlyI" title="Vídeo 6" allowfullscreen></iframe>
                     </div>
                     <div class="video-info">
-                        <h3>Dr. Olim chegando em Taubaté no evento de proteção aos romeiros</h3>
-                        <p>Este evento contou com muitos colaboradorese, a UNITAU também esteve no apoio.</p>
+                        <h3>DR.OLIM EM CUNHA NO RESTAURANTE CAMINHO DE OURO.</h3>
+                        <p>Ele autografou todos os livros e fez a entrega aos seus amigos que lá compareceram.</p>
                     </div>
                 </div>
             </div>
